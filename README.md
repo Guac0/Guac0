@@ -11,6 +11,8 @@ I possess a security toolset of both original and non-original works to help me 
 
 Outside of the realm of cybersecurity, I dabble in whatever catches my interests, although what's publicly available flunctuates depending on a few factors. In particular, I've created a [mission framework](https://github.com/Guac0/TAS-Mission-Template) for the cooperative videogame Arma 3, which still sees widespread use in the TAS community and elsewhere to this day. I attribute this to my focus on providing a feature rich but user friendly product, as it's absolutely crammed full of helpful features with a comprehensive writeup on common portions of it, plus even some video guides! Again, feel free to use anything you see in according to the (usually quite permissive) license.
 
+In my free time, I like to wrestle with an uncooperate Nextcloud server (plus some other goodies) that I've stuffed into a Raspberry Pi. It desperately wants to stretch its legs, but unfortuately my measely 1.8GHz does not give it a very large yard to run around in.
+
 ## Stats 💬
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guac0&langs_count=8&layout=compact)-->
@@ -19,12 +21,7 @@ Outside of the realm of cybersecurity, I dabble in whatever catches my interests
 I used to have a Top Langs chart here but it kept telling everyone 99% of my projects were written in C++ for some reason...
 
 Currently, I have projects using the following languages:
-1. Python
-2. Java
-3. Bash
-4. Batch (and some Powershell)
-5. SQL
-6. and finally, SQF (Status Quo Function, the scripting language that Arma uses).
+    Python, Java, Bash, Batch (and some Powershell), SQL, and finally, SQF (Status Quo Function, the scripting language that Arma uses).
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guac0&langs_count=8&layout=compact)
 <!-- 
