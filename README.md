@@ -3,7 +3,7 @@
 
 # Hi, I'm Andrew! 👋
 
-I'm a university student with a minor networking background currently studying cybersecurity as an undergraduate student in the USA. I'm an active competitor in this field — if you've been participating in CyberPatriot over the past few years then I might've been right next to you on the scoreboards, and now that I'm in college I've jumped right into several live Red vs. Blue competitions as a Blue Teamer (aka: defense). I've experimented with some offensive tactics and CTF skills as well, and I plan to get involved there as well moving forward!
+I'm a university student currently studying cybersecurity as an undergraduate student. I'm an active competitor in this field — if you've been participating in CyberPatriot over the past few years then I might've been right next to you on the scoreboards, and now that I'm in college I've jumped right into several live Red vs. Blue competitions as a Blue Teamer (aka: defense). I've experimented with some offensive tactics and CTF skills as well, and I plan to get involved there as well moving forward!
 
 ## Projects 📋
 
