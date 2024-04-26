@@ -1,4 +1,5 @@
 <!--[Guac0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guac0&count_private=true&show_icons=true&theme=Gradient)
+-->
 
 # Hi, I'm Andrew!
 
@@ -10,7 +11,7 @@ Outside of the realm of cybersecurity, I dabble in whatever catches my interests
 
 I used to have a Top Langs chart here but it kept telling everyone 99% of my projects were written in C++ for some reason, so I'll just self-report and say that I play around with Python, Java, Bash, Batch, SQL, and SQF (for non-Arma people, Status Quo Function, the scripting language Arma uses).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guac0&langs_count=8&layout=compact)-->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guac0&langs_count=8&layout=compact)-->
 ![Guac0's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Guac0&count_private=true&show_icons=true&theme=dracula)
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guac0&langs_count=8&layout=compact)
